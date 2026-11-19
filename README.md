@@ -112,4 +112,6 @@ To check numbers in a browser, the [decibel distance calculator](https://train-h
 
 ## License
 
-MIT, see [LICENSE](LICENSE). Copyright (c) 2026 Train Horn (train-horn.com). The addon folder carries its own copy of the license.
+MIT, see [LICENSE](LICENSE). Copyright (c) 2026 Train Horn. The addon folder carries its own copy of the license.
+
+Made by [Train Horn](https://train-horn.com/), an independent reference on train horns.
